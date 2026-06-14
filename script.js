@@ -1,0 +1,1 @@
+// All scripts are inside templates/index.html
